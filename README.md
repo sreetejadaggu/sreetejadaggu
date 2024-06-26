@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align-"center">Hi there, I am Sreeteja Daggu👋</h1>
+- 🌱 I’m currently learning <strong>SQL, Excel, Power BI, Tableau, Python and some Analytical Skills.</strong>
+- 🔭 I’m currently working on <strong> Projects that involve Data Analysis.</strong>
+- 📫 How to reach me: <a href-"https://www.linkedin.com/in/sreetejadaggu/" target="_blank">Sreeteja Daggu</a>
